@@ -72,9 +72,20 @@ https://github.com/da2k/curso-javascript-ninja
 
 ## Seção 5
 
-  - Retorno de funções
+  - Retorno de funções: pode retornar qualquer tipo de dados.
 
-    
+        return 'string'
+        return [1,2,3]
+        → myFunction()[0] // 1
+        return { prop1: 1}
+        → myFunction() // { prop1: 1}
+        → myFunction().prop1 //  1
+
+        obj = {prop: 1}
+        myFunction(arg){
+          return obj.prop;
+        }
+        myFunction(obj) // 1
 
 ## Seção 6
 ## Seção 7
