@@ -18,8 +18,8 @@ https://github.com/da2k/curso-javascript-ninja
   - operadores aritmeticos
 
         var soma = 10 + 10 // 20
-        soma++ // 21
-        ++soma // 22
+        soma++ // 21 → pós incremento
+        ++soma // 22 → pré incremento
 
   - operadores de igualdade e relacionais
 
@@ -30,10 +30,57 @@ https://github.com/da2k/curso-javascript-ninja
         }
         soma(2, 4);
 
+  - Operadores lógicos
+
+        var x = 3;
+        var y = 7;
+        x === 3 // true
+        y === 5 // false
+        x === 3 && y === 7 // true
+
+  - Operadores unários
+  - Condicionais -if
+  - 
+
 ## Seção 2
 
 ## Seção 3
+  
+  - Objetos
+
+        var objeto = {prop: 'valor', prop2: 12, prop3: true };
+
+        → adicionar novos valores
+        obj.prop3 = 'valor';
+
+        → métodos objeto
+        obj.method =  function(){
+          return true;
+        }
 
 ## Seção 4
+
+  - Truthy:
+  - Falsy: undefined, null, NaN, 0, '';
+
+        !true → false
+        !!true → true
+  - Ternario
+
+        1 === 2 ? true : false;
+        genre === 'female' ? 'a' : 'o';
+
+## Seção 5
+
+  - Retorno de funções
+
+    
+
+## Seção 6
+## Seção 7
+## Seção 8
+## Seção 9
+## Seção 10
+## Seção 11
 
 
