@@ -88,10 +88,22 @@ https://github.com/da2k/curso-javascript-ninja
         myFunction(obj) // 1
 
 ## Seção 6
+
+  - Operador virgula
+
+        var a, b = 2, c;
+
+  - Condicional Switch
+  - Condicional While
+
 ## Seção 7
 ## Seção 8
 ## Seção 9
 ## Seção 10
 ## Seção 11
-
+## Seção 12
+## Seção 13
+## Seção 14
+## Seção 15
+## Seção 16
 
