@@ -97,6 +97,17 @@ https://github.com/da2k/curso-javascript-ninja
   - Condicional While
 
 ## Seção 7
+
+  - Operador módulo
+
+        5 % 2 // 1
+
+  - Array.length
+  - Array.push(arr);
+  - Array.push([]);
+
+  - for()
+
 ## Seção 8
 ## Seção 9
 ## Seção 10
