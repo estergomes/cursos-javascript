@@ -136,6 +136,10 @@ https://github.com/da2k/curso-javascript-ninja
         })
 
 ## Seção 9
+
+  - Escopo de funções
+  - Hoisting- eleva funções antes da invocação.
+
 ## Seção 10
 ## Seção 11
 ## Seção 12
