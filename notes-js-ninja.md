@@ -109,6 +109,32 @@ https://github.com/da2k/curso-javascript-ninja
   - for()
 
 ## Seção 8
+
+  - Funções
+
+      → sempre nomear funções atribuidas a variaveis;
+      var fn = function nameFunc(){}
+      fn.name  // 'nameFunc'
+
+  - Functional Programmnig
+
+        function adder(n){
+          return function(p){
+            return n + p
+          }
+        }
+        var add2 = adder(2)
+        add2(5);
+
+
+        → return function
+        function showOtherFunction(func) {
+          return func();
+        }
+        showOtherFunction(function(){
+          return 'Returned function';
+        })
+
 ## Seção 9
 ## Seção 10
 ## Seção 11
